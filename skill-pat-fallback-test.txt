@@ -1,2 +1,0 @@
-gh-commit skill read-only-PAT fallback test
-2026-10-15
